@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Clevertap</string>
+    <string name="productViewedTitle">Product Viewed</string>
+    <string name="productViewedMessage">Product is viewed. A clevertap event is registered.</string>
+</resources>

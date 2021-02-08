@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "652905241568",
+    "project_id": "sacred-augury-123916",
+    "storage_bucket": "sacred-augury-123916.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:652905241568:android:c983293923d11353112985",
+        "android_client_info": {
+          "package_name": "com.sunny.clevertap"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "652905241568-diiee560n7nfn38aqugg0loubsamks8d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCVv94OPe-FnOnbBss0TC_DTPLoOL5LL0k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "652905241568-diiee560n7nfn38aqugg0loubsamks8d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
